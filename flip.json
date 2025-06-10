@@ -60,6 +60,20 @@
                 "height": 2414
               },
               "target": "https://iiif.io/api/cookbook/recipe/0036-composition-from-multiple-images/canvas/p1#xywh=3949,994,1091,1232"
+            },
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0036-composition-from-multiple-images/annotation/p0002-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://cubap.github.io/flip-view/image/coaster.jpg",
+                "type": "TextualBody",
+                "value": "<div><h3>Lovely Drops</h3><p>Win Prizes All Summer!</p></div>",
+                "format": "text/html",
+                "width": 2138,
+                "height": 2414
+              },
+              "target": "https://iiif.io/api/cookbook/recipe/0036-composition-from-multiple-images/canvas/p1#xywh=3949,994,1091,1232"
             }
           ]
         }
